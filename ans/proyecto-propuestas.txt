@@ -1,0 +1,20 @@
+1. Diama de clases UML (Herencia y Polimorfismo) 2h
+2. Implementacion clases generales (padres y heredadas, funciones y sus polimorfismos) 2h
+3. Implementacion clase juego (con las reglas) 2:30h
+4. Try catch para manejo de errores (en todas las funciones que tengan ingles por teclado) 2h
+4. Integrar menu (con 03 tableros) 2:30h
+
+Asesor[ia + desarrollo (grabacion)
+11h
+paquetes de 2h
+
+Desarrollo + codigo comentado
+1:30
+1:30
+2:00->1:00
+1:30->1:00
+2:30->2:00
+----
+9h->6/7
+paquetes de 3h
+martes, jueves y sabado
