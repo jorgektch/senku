@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jorgektch/Projects/senku/senku/juego.h
+iostream
+-
+string
+-
+partida.h
+C:/Users/jorgektch/Projects/senku/senku/partida.h
+
+C:/Users/jorgektch/Projects/senku/senku/main.cpp
+juego.h
+C:/Users/jorgektch/Projects/senku/senku/juego.h
+
+C:/Users/jorgektch/Projects/senku/senku/partida.h
+iostream
+-
+

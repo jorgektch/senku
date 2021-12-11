@@ -1,0 +1,3 @@
+C:/Users/jorgektch/Projects/senku/senku/cmake-build-debug/CMakeFiles/senku.dir
+C:/Users/jorgektch/Projects/senku/senku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorgektch/Projects/senku/senku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

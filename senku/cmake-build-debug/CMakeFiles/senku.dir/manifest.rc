@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/jorgektch/Projects/senku/senku/cmake-build-debug/CMakeFiles/senku.dir/embed.manifest"
