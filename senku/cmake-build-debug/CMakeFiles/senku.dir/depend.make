@@ -4,4 +4,7 @@
 CMakeFiles\senku.dir\main.cpp.obj: ..\juego.h
 CMakeFiles\senku.dir\main.cpp.obj: ..\main.cpp
 CMakeFiles\senku.dir\main.cpp.obj: ..\partida.h
+CMakeFiles\senku.dir\main.cpp.obj: ..\partidaDiamante.h
+CMakeFiles\senku.dir\main.cpp.obj: ..\partidaFrancesa.h
+CMakeFiles\senku.dir\main.cpp.obj: ..\partidaInglesa.h
 

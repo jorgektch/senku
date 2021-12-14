@@ -11,8 +11,12 @@ iostream
 -
 string
 -
-partida.h
-C:/Users/jorgektch/Projects/senku/senku/partida.h
+partidaFrancesa.h
+C:/Users/jorgektch/Projects/senku/senku/partidaFrancesa.h
+partidaDiamante.h
+C:/Users/jorgektch/Projects/senku/senku/partidaDiamante.h
+partidaInglesa.h
+C:/Users/jorgektch/Projects/senku/senku/partidaInglesa.h
 
 C:/Users/jorgektch/Projects/senku/senku/main.cpp
 juego.h
@@ -21,4 +25,18 @@ C:/Users/jorgektch/Projects/senku/senku/juego.h
 C:/Users/jorgektch/Projects/senku/senku/partida.h
 iostream
 -
+string
+-
+
+C:/Users/jorgektch/Projects/senku/senku/partidaDiamante.h
+partida.h
+C:/Users/jorgektch/Projects/senku/senku/partida.h
+
+C:/Users/jorgektch/Projects/senku/senku/partidaFrancesa.h
+partida.h
+C:/Users/jorgektch/Projects/senku/senku/partida.h
+
+C:/Users/jorgektch/Projects/senku/senku/partidaInglesa.h
+partida.h
+C:/Users/jorgektch/Projects/senku/senku/partida.h
 
